@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Base 64 encode-decode extension",
   "short_name": "base64-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real time Base 64 encode and decode extension for browsers",
   "icons": {
     "16": "vercel.png",
