@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "description": "Real time Base 64 encode and decode extension for browsers",
   "icons": {
-    "16": "vercel.svg",
-    "32": "vercel.svg",
-    "150": "vercel.svg"
+    "16": "vercel.png",
+    "32": "vercel.png",
+    "150": "vercel.png"
   },
   "permissions": [],
   "browser_action": {
